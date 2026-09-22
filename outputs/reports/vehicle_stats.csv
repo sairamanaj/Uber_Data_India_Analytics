@@ -1,0 +1,8 @@
+Vehicle Type,total_bookings,completed,avg_booking_value,avg_ride_distance,avg_vtat,completion_rate_pct
+Auto,37419,23155,506.73,24.62,8.45,61.9
+Go Mini,29806,18549,507.68,24.61,8.47,62.2
+Go Sedan,27141,16676,511.5,24.61,8.4,61.4
+Bike,22517,14034,510.2,24.65,8.5,62.3
+Premier Sedan,18111,11252,509.57,24.6,8.44,62.1
+eBike,10557,6551,503.9,24.99,8.48,62.1
+Uber XL,4449,2783,501.82,24.4,8.58,62.6

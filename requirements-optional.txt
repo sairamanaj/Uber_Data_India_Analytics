@@ -1,0 +1,9 @@
+# Optional ML libraries — only install if Stage 2 ML is triggered
+# (i.e., after Logistic Regression and Random Forest have been evaluated
+#  and gradient boosting is justified by the performance gap)
+#
+# Install with: pip install -r requirements-optional.txt
+
+xgboost>=2.0
+lightgbm>=4.0
+shap>=0.43

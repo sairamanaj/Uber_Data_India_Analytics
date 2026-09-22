@@ -1,0 +1,6 @@
+area,action,scenario_gbv_uplift_inr,confidence,requires_cost_data
+Supply Optimisation,"Driver incentives in top NDF (zone, slot) cells",41400.0,Upper-bound estimate,False
+Cancellation Reduction,10% customer cancellation reduction (VTAT alerts),434700.0,Upper-bound estimate,False
+Retention,Day-7 re-engagement for all new customers,,Directional only — CAC/cost data needed for ROI,True
+Peak Demand,Surge pricing / driver scheduling for high-gap hours,,Directional only — pricing model needed,False
+Payment Mix,UPI cashback; cash-to-digital migration,,Directional only — incentive cost data needed,True
