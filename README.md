@@ -6,6 +6,8 @@ A complete, four-tier analytics project built on the NCR ride-bookings dataset (
 
 ## Dataset
 
+link - https://www.kaggle.com/datasets/anilrohan/uber-data-india
+
 | Property | Value |
 |---|---|
 | File | `Data/ncr_ride_bookings.csv` |
